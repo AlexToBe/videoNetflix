@@ -1,0 +1,27 @@
+[
+    {
+        "title": "The Power of Habit",
+        "author": "Charles Duhigg three rodents amuse themseles by haressing creatures of the forest.Hower..",
+        "videoUrl":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+        "thumbnailUrl": "http://uhdtv.io/wp-content/uploads/2020/10/Sintel-3.jpg",
+        "genre": "Self-help",
+        "duration": "4.5 minutes"
+    },
+     {
+        "title": "Sintel",
+        "author": "A lonly young woman,Sintel,helps and befriends a dragon,whom she chall..",
+        "videoUrl":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+        "thumbnailUrl": "https://mango.blender.org/wp-content/uploads/2013/05/01_thom_celia_bridge.jpg",
+        "genre": "Action",
+        "duration": "4.5 minutes"
+    }
+    ,
+     {
+        "title": "Tears of Steel",
+        "author": "In an apocalyptic future,a group of soldiers and scientists take refuge...",
+        "videoUrl":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+        "thumbnailUrl": "https://download.blender.org/ED/cover.jpg",
+        "genre": "Sci-fi",
+        "duration": "4.5 minutes"
+    }
+]
